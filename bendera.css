@@ -1,0 +1,36 @@
+.Kotak1{
+    background-color: #b60808;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+}
+
+.Kotak2{
+    display: flex;
+    justify-content: center;
+    background-color: #08087c;
+    padding: 100px;
+}
+.Kotak2 .lingkaran{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+    background-color: #fff;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Kotak2 .lingkaran h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    color: #111;
+    
+}
+.Kotak3{
+    background-color: #b60808;
+    padding: 80px;
+}
